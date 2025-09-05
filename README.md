@@ -76,6 +76,10 @@ I believe in blending creativity with precision, and curiosity with execution. W
 - Mastering real-world **System Design** concepts
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rahulkamble2026rk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://gpvc.arturio.dev/rahulkamble2026rk" alt="Profile views" />
+</p>
 
 ## 📫 Let’s Connect!
 
