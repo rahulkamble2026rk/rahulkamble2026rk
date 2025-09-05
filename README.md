@@ -32,7 +32,7 @@ I believe in blending creativity with precision, and curiosity with execution. W
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,java,python,go" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,python" alt="Programming Languages" />
 </p>
 
 ### Frontend Development
@@ -42,43 +42,26 @@ I believe in blending creativity with precision, and curiosity with execution. W
 
 ### Backend & Database Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,postgresql,mongodb,redis" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,postgresql,mongodb,redis,springboot" alt="Backend Skills" />
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=aws,docker" alt="DevOps Skills" />
 </p>
 
 ### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,intellijidea" alt="Development Tools" />
 </p>
 
 ## Github Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyashPG&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShreyashPG&theme=gotham" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulkamble2026rk&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkamble2026rk&theme=gotham" alt="GitHub Streak" />
 </div>
 
-## Professional Network
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
-<p>
-    <a href="https://www.linkedin.com/in/shreyash-ghanekar-584217192/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-<a href="https://medium.com/@shreyasghanekar35">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="40" height="40"/>
-</a>
-<a href="https://leetcode.com/u/The_Shreyash/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-</a>
-
-
-</p>
 
 ---
 ## My Top Projects: 
