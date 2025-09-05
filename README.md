@@ -42,7 +42,7 @@ I believe in blending creativity with precision, and curiosity with execution. W
 
 ### Backend & Database Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,postgresql,mongodb,redis,springboot" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,postgresql,mongodb,redis,spring" alt="Backend Skills" />
 </p>
 
 ### Cloud & DevOps
