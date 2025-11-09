@@ -7,7 +7,7 @@
 
 # 👋 Hello, I'm Rahul Kamble!
 
-> "Think beyond time and turn your ideas into reality." 🚀
+> "Think beyond the time and turn your ideas into reality." 🚀
 
 ## 👨‍💻 About Me
 
