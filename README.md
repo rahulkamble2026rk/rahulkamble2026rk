@@ -55,12 +55,6 @@ I believe in blending creativity with precision, and curiosity with execution. W
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,intellijidea" alt="Development Tools" />
 </p>
 
-## Github Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulkamble2026rk&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rahulkamble2026rk&theme=gotham" alt="GitHub Streak" />
-</div>
 
 
 ---
